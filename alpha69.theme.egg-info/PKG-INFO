@@ -1,0 +1,26 @@
+Metadata-Version: 1.0
+Name: alpha69.theme
+Version: 1.0
+Summary: UNKNOWN
+Home-page: http://svn.plone.org/svn/collective/
+Author: Benjamin Tessmar
+Author-email: b.tessmar@gmx.de
+License: GPL
+Description: Introduction
+        ============
+        
+        
+        
+        This product may contain traces of nuts.
+        
+        Changelog
+        =========
+        
+        1.0dev (unreleased)
+        -------------------
+        
+        - Initial release
+        
+Platform: UNKNOWN
+Classifier: Framework :: Plone
+Classifier: Programming Language :: Python
