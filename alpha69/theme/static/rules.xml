@@ -8,7 +8,7 @@
     <theme href="theme.html" css:if-content="#visual-portal-wrapper" />
 
     <after content="/html/head/style | /html/head/script | /html/head/link" theme-children="/html/head"/>
-    
+
     <merge attributes="class" css:content="body" css:theme="body" />
 
     <replace css:content="#portal-column-one" css:theme-children="#sidebarLeft" />
